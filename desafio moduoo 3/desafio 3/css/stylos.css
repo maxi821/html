@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish:ital,wght@0,200..1000;1,200..1000&display=swap');
+
+body{
+    font-family: Mulish, sans-serif;
+}
+h1{
+    color:#04146c;
+    font-size: 18pt;
+}
+
+p{
+    text-align: center;
+    font-family: Mulish, sans-serif;
+    color: #0a2ff1;
+    font-size: 14pt;
+}
+
+input{
+    font-family: Mulish, sans-serif;
+    color: #414166;
+    width: 500px;
+    height: 50px;
+    margin: auto;
+    font-size: 14pt;
+
+}
+
+.form{
+    background-color: #fff;
+    width: 90%;
+    max-width: 400px;
+    border-radius: 1em;
+    padding: 10px;
+
+}
+
+.form_container{
+    width: 100%;
+    display: grid;
+    gap: 1em;
+    grid-auto-columns: 100%;
+}
+
+.form_title{
+    text-align: center;
+}
+
+button{
+    font-family: Mulish, sans-serif;
+    resize: none;
+    padding: 10px;
+    margin-bottom: 10px;
+    color: #fff;
+    background-color: #0a2ff1;
+    text-align: center;
+    width: 500px;
+    height: 50px;
+    margin: auto;
+    font-size: 15pt;
+
+}
+
+
+
+
+
+
+
+
+
+
